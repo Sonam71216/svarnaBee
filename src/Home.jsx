@@ -46,7 +46,7 @@ const Home = () => {
 
   return (
     <section>
-      <div className="flex flex-wrap justify-center gap-4 md:gap-20 gap-10 py-6  md:py-8 text-center">
+      <div className="flex flex-wrap justify-center gap-2 lg:gap-20 md:gap-10 py-6  md:py-8 text-center">
         <div className="text-center">
           <h2 className="text-[#C8AB6B] text-3xl md:text-6xl  lg:text-8xl font-semibold bg-[#f1f1f121] pt-2 py-3 px-5 rounded-lg">
             {timeLeft.days}
