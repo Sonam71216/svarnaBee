@@ -48,7 +48,7 @@ const Home = () => {
     <section>
       <div className="flex flex-wrap justify-center gap-4 md:gap-20 py-6  md:py-8 text-center">
         <div className="text-center">
-          <h2 className="text-[#C8AB6B] text-4xl md:text-8xl font-semibold bg-[#f1f1f121] pt-2 py-3 px-5 rounded-lg">
+          <h2 className="text-[#C8AB6B] text-3xl md:text-8xl font-semibold bg-[#f1f1f121] pt-2 py-3 px-5 rounded-lg">
             {timeLeft.days}
           </h2>
           <p className="text-[#C8AB6B] text-sm md:text-2xl mt-3 ">
@@ -57,7 +57,7 @@ const Home = () => {
         </div>
 
         <div className="text-center">
-          <h2 className="text-[#C8AB6B] text-4xl md:text-8xl font-semibold bg-[#f1f1f121] pt-2 py-3 px-5 rounded-lg">
+          <h2 className="text-[#C8AB6B] text-3xl md:text-8xl font-semibold bg-[#f1f1f121] pt-2 py-3 px-5 rounded-lg">
             {timeLeft.hours}
           </h2>
           <p className="text-[#C8AB6B]  text-sm  md:text-2xl mt-3">
@@ -66,7 +66,7 @@ const Home = () => {
         </div>
 
         <div className="text-center">
-          <h2 className="text-[#C8AB6B] text-4xl md:text-8xl font-semibold bg-[#f1f1f121] pt-2 py-3 px-5 rounded-lg">
+          <h2 className="text-[#C8AB6B] text-3xl md:text-8xl font-semibold bg-[#f1f1f121] pt-2 py-3 px-5 rounded-lg">
             {timeLeft.minutes}
           </h2>
           <p className="text-[#C8AB6B] text-sm md:text-2xl mt-3">
@@ -75,7 +75,7 @@ const Home = () => {
         </div>
 
         <div className="text-center">
-          <h2 className="text-[#C8AB6B] text-4xl md:text-8xl font-semibold bg-[#f1f1f121] pt-2 py-3 px-5 rounded-lg">
+          <h2 className="text-[#C8AB6B] text-3xl md:text-8xl font-semibold bg-[#f1f1f121] pt-2 py-3 px-5 rounded-lg">
             {timeLeft.seconds}
           </h2>
           <p className="text-[#C8AB6B] text-sm md:text-2xl mt-3">
