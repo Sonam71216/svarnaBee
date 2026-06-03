@@ -14,7 +14,7 @@ function App() {
             <div className='logo-img'>
                 <img src={Logo} alt="" className='mx-auto'/>
             </div>
-          <h1 className='text-[60px] md:text-[30px] bg-gradient-to-r from-[#afafaf] to-[#afafaf] bg-clip-text text-transparent'>Coming Soon</h1>
+          <h1 className='md:text-[60px] text-[30px] bg-gradient-to-r from-[#afafaf] to-[#afafaf] bg-clip-text text-transparent'>Coming Soon</h1>
           <Home />
         </div>
         
