@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 const Home = () => {
-  const birthday = new Date("2026-07-16T03:43:16");
+  const birthday = new Date("2026-08-01T03:43:16");
 
   const getTimeLeft = () => {
     const difference = birthday - new Date();
